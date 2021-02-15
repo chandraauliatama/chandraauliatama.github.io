@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chandra Blog</title>
+    <link>https://chandraauliatama.github.io/</link>
+    <description>Recent content on Chandra Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright Made With Help By</copyright>
+    <lastBuildDate>Mon, 15 Feb 2021 23:38:59 +0700</lastBuildDate><atom:link href="https://chandraauliatama.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://chandraauliatama.github.io/posts/hello-world/</link>
+      <pubDate>Mon, 15 Feb 2021 23:38:59 +0700</pubDate>
+      
+      <guid>https://chandraauliatama.github.io/posts/hello-world/</guid>
+      <description>Photo by Jan Kahanek on Unsplash
+  Sama seperti saat awal setiap saya belajar suatu bahasa pemrograman baru, mari kita mulai blog ini dengan sebuah tulisan berjudul &amp;ldquo;hello world&amp;rdquo; sederhana ini.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://chandraauliatama.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chandraauliatama.github.io/about/</guid>
+      <description>Halo, saya Chandra Aulia Tama.</description>
+    </item>
+    
+  </channel>
+</rss>
