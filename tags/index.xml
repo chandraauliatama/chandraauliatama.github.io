@@ -6,6 +6,25 @@
     <description>Recent content in Tags on Chandra Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Copyright Made With Help By</copyright><atom:link href="https://chandraauliatama.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Copyright Made With Help By</copyright>
+    <lastBuildDate>Thu, 18 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://chandraauliatama.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personal</title>
+      <link>https://chandraauliatama.github.io/tags/personal/</link>
+      <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chandraauliatama.github.io/tags/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why</title>
+      <link>https://chandraauliatama.github.io/tags/why/</link>
+      <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chandraauliatama.github.io/tags/why/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
