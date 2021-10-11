@@ -1,59 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://chandraauliatama.github.io/</loc>
-    <lastmod>2021-02-24T00:03:09+07:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-02-24T22:43:08+07:00</lastmod>
+  </url><url>
     <loc>https://chandraauliatama.github.io/posts/mari-menyalahkan-diri-sendiri/</loc>
-    <lastmod>2021-02-24T00:03:09+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chandraauliatama.github.io/tags/motivating/</loc>
-    <lastmod>2021-02-24T00:03:09+07:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-02-24T22:43:08+07:00</lastmod>
+  </url><url>
+    <loc>https://chandraauliatama.github.io/tags/motivasi/</loc>
+    <lastmod>2021-02-24T22:43:08+07:00</lastmod>
+  </url><url>
     <loc>https://chandraauliatama.github.io/tags/personal/</loc>
-    <lastmod>2021-02-24T00:03:09+07:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-02-24T22:43:08+07:00</lastmod>
+  </url><url>
     <loc>https://chandraauliatama.github.io/posts/</loc>
-    <lastmod>2021-02-24T00:03:09+07:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-02-24T22:43:08+07:00</lastmod>
+  </url><url>
     <loc>https://chandraauliatama.github.io/tags/</loc>
-    <lastmod>2021-02-24T00:03:09+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chandraauliatama.github.io/tags/knowledge/</loc>
-    <lastmod>2021-02-22T10:14:08+07:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-02-24T22:43:08+07:00</lastmod>
+  </url><url>
+    <loc>https://chandraauliatama.github.io/tags/pengetahuan/</loc>
+    <lastmod>2021-02-22T10:41:01+07:00</lastmod>
+  </url><url>
     <loc>https://chandraauliatama.github.io/posts/salah-kaprah-profesional-dan-amatir/</loc>
-    <lastmod>2021-02-22T10:14:08+07:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-02-22T10:41:01+07:00</lastmod>
+  </url><url>
     <loc>https://chandraauliatama.github.io/posts/hello-world/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chandraauliatama.github.io/tags/why/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-02-18T23:38:59+07:00</lastmod>
+  </url><url>
+    <loc>https://chandraauliatama.github.io/tags/kenapa/</loc>
+    <lastmod>2021-02-18T23:38:59+07:00</lastmod>
+  </url><url>
     <loc>https://chandraauliatama.github.io/about/</loc>
   </url>
-  
 </urlset>

@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap");
 
 body {
     font-family: "Inter", sans-serif;
@@ -13,11 +13,15 @@ a {
     text-decoration: none;
     word-break: break-word;
 }
-    a:hover {
-        border-bottom: 2px solid #3700ff;
-    }
+a:hover {
+    border-bottom: 2px solid #3700ff;
+}
 
-html,button,input,select,textarea {
+html,
+button,
+input,
+select,
+textarea {
     color: #333;
 }
 
@@ -49,13 +53,12 @@ img {
 }
 
 a img {
-    border:none;
+    border: none;
 }
 
 figure {
     margin: 0;
     text-align: center;
-
     font-size: 0.7em;
 }
 
@@ -66,38 +69,38 @@ fieldset {
 }
 
 table {
-  -ms-overflow-style: -ms-autohiding-scrollbar;
-  -webkit-overflow-scrolling: touch;
-  background-color: transparent;
-  margin-bottom: 1rem;
-  overflow-x: auto;
-  width: 100%;
+    -ms-overflow-style: -ms-autohiding-scrollbar;
+    -webkit-overflow-scrolling: touch;
+    background-color: transparent;
+    margin-bottom: 1rem;
+    overflow-x: auto;
+    width: 100%;
 }
 
 table th,
 table td {
-  border-bottom: 1px solid #dee2e6;
-  padding: 0.75rem;
-  vertical-align: top;
+    border-bottom: 1px solid #dee2e6;
+    padding: 0.75rem;
+    vertical-align: top;
 }
 
 table thead th {
-  border-bottom: 2px solid #dee2e6;
-  vertical-align: bottom;
+    border-bottom: 2px solid #dee2e6;
+    vertical-align: bottom;
 }
 
 table tbody + tbody {
-  border-top: 2px solid #dee2e6;
+    border-top: 2px solid #dee2e6;
 }
 
 table tbody tr:nth-of-type(even) {
-  background-color: rgba(0, 0, 0, 0.15);
+    background-color: rgba(0, 0, 0, 0.15);
 }
 
 table th {
-  background-color: #212529;
-  border-color: #32383e;
-  color: #fff;
+    background-color: #212529;
+    border-color: #32383e;
+    color: #fff;
 }
 
 textarea {
@@ -108,7 +111,7 @@ blockquote {
     margin-left: 1rem;
     font-style: italic;
     font-size: 1.4rem;
-    font-family: Georgia,bitstream charter,serif;
+    font-family: Georgia, bitstream charter, serif;
     border-left: 3px solid;
     border-color: #3700ff;
     padding-left: 20px;
@@ -116,15 +119,19 @@ blockquote {
 
 blockquote cite {
     font-size: 70%;
-    opacity: .8;
+    opacity: 0.8;
 }
 
 blockquote em {
     font-weight: 600;
 }
 
-
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     color: #333;
     font-weight: 500;
     line-height: 1.3em;
@@ -152,7 +159,7 @@ h5 {
 }
 
 h6 {
-    font-size: .9rem;
+    font-size: 0.9rem;
 }
 
 .align-center {
@@ -183,7 +190,7 @@ ul.flat li {
 }
 
 .prevent-collapse {
-    min-height: .1rem
+    min-height: 0.1rem;
 }
 
 .smaller {
@@ -211,7 +218,7 @@ ul {
 
 .highlight {
     background: 0 0;
-    background-color: #FAFAFA;
+    background-color: #fafafa;
 }
 
 .wrapper {
@@ -242,21 +249,21 @@ ul {
 .header .site-title {
     margin: 0;
 }
-    .site-title a {
-        color: #333;
-        text-decoration: none !important;
-    }
-    .site-title a:hover {
-        border-bottom-width: 3px;
-    }
+.site-title a {
+    color: #333;
+    text-decoration: none !important;
+}
+.site-title a:hover {
+    border-bottom-width: 3px;
+}
 
 .header .site-description {
     display: flex;
     justify-content: space-between;
 }
-    .header .site-description p {
-        margin: 0 0 10px 0;
-    }
+.header .site-description p {
+    margin: 0 0 10px 0;
+}
 
 .header nav {
     border-top: 1px solid #eee;
@@ -274,12 +281,12 @@ ul {
     list-style: none;
     margin: 0 30px 0 0;
 }
-    .header nav.social a {
-        color: #333;
-    }
-    .header nav.social a:hover {
-        color: #3700ff;
-    }
+.header nav.social a {
+    color: #333;
+}
+.header nav.social a:hover {
+    color: #3700ff;
+}
 
 .header .site-description nav {
     margin: 0;
@@ -389,12 +396,12 @@ ul {
     margin-top: 40px;
     padding: 15px 0;
 }
-    .footer a {
-        color: #666;
-    }
-    .footer a:hover {
-        color: #3700ff;
-    }
+.footer a {
+    color: #666;
+}
+.footer a:hover {
+    color: #3700ff;
+}
 
 .tag-cloud {
     margin-top: 20px;
@@ -466,11 +473,11 @@ ul {
     }
 
     table {
-      -ms-overflow-style: -ms-autohiding-scrollbar;
-      -webkit-overflow-scrolling: touch;
-      display: block;
-      overflow-x: auto;
-      width: 100%;
+        -ms-overflow-style: -ms-autohiding-scrollbar;
+        -webkit-overflow-scrolling: touch;
+        display: block;
+        overflow-x: auto;
+        width: 100%;
     }
 }
 
